@@ -1,0 +1,6730 @@
+[
+  {
+    "filename": "PXL_20230406_040704912.NIGHT",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843nl",
+        "ModifyDate": "2023:04:06 13:07:04",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 19660
+      },
+      "exif": {
+        "ExposureTime": 0.233325,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 639,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:07:04",
+        "CreateDate": "2023:04:06 13:07:04",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 2.1,
+        "ApertureValue": 1.58,
+        "BrightnessValue": -3.99,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 2.404,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "912",
+        "SubSecTimeOriginal": "912",
+        "SubSecTimeDigitized": "912",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.66
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.7
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 55.45,
+        "GPSTimeStamp": [
+          4,
+          6,
+          23
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 257,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230405_233532318",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 08:35:32",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 313,
+        "ImageHeight": 235,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 11446
+      },
+      "exif": {
+        "ExposureTime": 0.000214,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 56,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 08:35:32",
+        "CreateDate": "2023:04:06 08:35:32",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 12.19,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 9.61,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 2.009,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "318",
+        "SubSecTimeOriginal": "318",
+        "SubSecTimeDigitized": "318",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 3.21,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          39.47
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          2.95
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 40.4,
+        "GPSTimeStamp": [
+          23,
+          35,
+          25
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 46,
+        "GPSDateStamp": "2023:04:05"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230405_220525136",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 07:05:25",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 24534
+      },
+      "exif": {
+        "ExposureTime": 0.008328,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 323,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 07:05:25",
+        "CreateDate": "2023:04:06 07:05:25",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 2,
+        "BrightnessValue": 2.22,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "136",
+        "SubSecTimeOriginal": "136",
+        "SubSecTimeDigitized": "136",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          39.09
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          46,
+          56.68
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 47,
+        "GPSTimeStamp": [
+          22,
+          4,
+          23
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 357,
+        "GPSDateStamp": "2023:04:05"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230404_214752087",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:05 06:47:52",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1145,
+        "ThumbnailLength": 20061
+      },
+      "exif": {
+        "ExposureTime": 0.024998,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 125,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:05 06:47:52",
+        "CreateDate": "2023:04:05 06:47:52",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 5.32,
+        "ApertureValue": 2,
+        "BrightnessValue": 2,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "087",
+        "SubSecTimeOriginal": "087",
+        "SubSecTimeDigitized": "087",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 242
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115801429",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:58:01",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 260,
+        "ImageHeight": 347,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 10162
+      },
+      "exif": {
+        "ExposureTime": 0.019998,
+        "FNumber": 2.2,
+        "ExposureProgram": 2,
+        "ISO": 489,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:58:01",
+        "CreateDate": "2023:04:06 20:58:01",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 5.64,
+        "ApertureValue": 2.28,
+        "BrightnessValue": 0.63,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.28,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.35,
+        "SubSecTime": "429",
+        "SubSecTimeOriginal": "429",
+        "SubSecTimeDigitized": "429",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1.45,
+        "FocalLengthIn35mmFormat": 16,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 2.35mm f/2.2"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.9
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          33
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 339,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_044036424",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:40:36",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 38036
+      },
+      "exif": {
+        "ExposureTime": 0.004361,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 61,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:40:36",
+        "CreateDate": "2023:04:06 13:40:36",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.84,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 5.14,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.472,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "424",
+        "SubSecTimeOriginal": "424",
+        "SubSecTimeDigitized": "424",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 315,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_044033858",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:40:33",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 33097
+      },
+      "exif": {
+        "ExposureTime": 0.004917,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 55,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:40:33",
+        "CreateDate": "2023:04:06 13:40:33",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.67,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 5.11,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.347,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "858",
+        "SubSecTimeOriginal": "858",
+        "SubSecTimeDigitized": "858",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 326,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043926688",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:39:26",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 36806
+      },
+      "exif": {
+        "ExposureTime": 0.00449,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 64,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:39:26",
+        "CreateDate": "2023:04:06 13:39:26",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.8,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 5.02,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.239,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "688",
+        "SubSecTimeOriginal": "688",
+        "SubSecTimeDigitized": "688",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 148,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230405_235338252",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 08:53:38",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 24063
+      },
+      "exif": {
+        "ExposureTime": 0.000556,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 57,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 08:53:38",
+        "CreateDate": "2023:04:06 08:53:38",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 10.81,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 8.21,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.533,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "252",
+        "SubSecTimeOriginal": "252",
+        "SubSecTimeDigitized": "252",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          40.34
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          11.37
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 50.17,
+        "GPSTimeStamp": [
+          23,
+          51,
+          43
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 220,
+        "GPSDateStamp": "2023:04:05"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230405_220535328",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 07:05:35",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 27533
+      },
+      "exif": {
+        "ExposureTime": 0.008328,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 291,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 07:05:35",
+        "CreateDate": "2023:04:06 07:05:35",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 2,
+        "BrightnessValue": 2.37,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "328",
+        "SubSecTimeOriginal": "328",
+        "SubSecTimeDigitized": "328",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          39.09
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          46,
+          56.68
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 47,
+        "GPSTimeStamp": [
+          22,
+          4,
+          23
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 2,
+        "GPSDateStamp": "2023:04:05"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_093140361",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 18:31:40",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 31371
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 149,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 18:31:40",
+        "CreateDate": "2023:04:07 18:31:40",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 2.65,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.661,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "361",
+        "SubSecTimeOriginal": "361",
+        "SubSecTimeDigitized": "361",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          41,
+          28.43
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          45,
+          59.92
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 42.4,
+        "GPSTimeStamp": [
+          9,
+          30,
+          45
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 19,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_055634797",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 14:56:34",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 36805
+      },
+      "exif": {
+        "ExposureTime": 0.020011,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 59,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 14:56:34",
+        "CreateDate": "2023:04:07 14:56:34",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 5.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 2.99,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.643,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "797",
+        "SubSecTimeOriginal": "797",
+        "SubSecTimeDigitized": "797",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          50.79
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          20.63
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 39.4,
+        "GPSTimeStamp": [
+          5,
+          56,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 40,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115644975",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:56:44",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 32164
+      },
+      "exif": {
+        "ExposureTime": 0.020011,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 294,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:56:44",
+        "CreateDate": "2023:04:06 20:56:44",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 5.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.67,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.902,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "975",
+        "SubSecTimeOriginal": "975",
+        "SubSecTimeDigitized": "975",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.91
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          29
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 252,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115644353",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:56:44",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 31541
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 490,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:56:44",
+        "CreateDate": "2023:04:06 20:56:44",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.93,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.902,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "353",
+        "SubSecTimeOriginal": "353",
+        "SubSecTimeDigitized": "353",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.91
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          29
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 255,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115750371",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:57:50",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 21782
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 537,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:57:50",
+        "CreateDate": "2023:04:06 20:57:50",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.8,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.269,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "371",
+        "SubSecTimeOriginal": "371",
+        "SubSecTimeDigitized": "371",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.9
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          33
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 338,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115642810",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:56:42",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 32602
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 604,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:56:42",
+        "CreateDate": "2023:04:06 20:56:42",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.63,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.902,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "810",
+        "SubSecTimeOriginal": "810",
+        "SubSecTimeDigitized": "810",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.91
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          29
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 250,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115635665",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:56:35",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 32400
+      },
+      "exif": {
+        "ExposureTime": 0.040022,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 154,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:56:35",
+        "CreateDate": "2023:04:06 20:56:35",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 4.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.6,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.974,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "665",
+        "SubSecTimeOriginal": "665",
+        "SubSecTimeDigitized": "665",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.91
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          29
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 254,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_044045125",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:40:45",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 45175
+      },
+      "exif": {
+        "ExposureTime": 0.005815,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 61,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:40:45",
+        "CreateDate": "2023:04:06 13:40:45",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.43,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 4.72,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.491,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "125",
+        "SubSecTimeOriginal": "125",
+        "SubSecTimeDigitized": "125",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 166,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115632691",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:56:32",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 32802
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 582,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:56:32",
+        "CreateDate": "2023:04:06 20:56:32",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.68,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.974,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "691",
+        "SubSecTimeOriginal": "691",
+        "SubSecTimeDigitized": "691",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.91
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          29
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 251,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043742388",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:37:42",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 32231
+      },
+      "exif": {
+        "ExposureTime": 0.001481,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 60,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:37:42",
+        "CreateDate": "2023:04:06 13:37:42",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 9.4,
+        "ApertureValue": 2,
+        "BrightnessValue": 7.14,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "388",
+        "SubSecTimeOriginal": "388",
+        "SubSecTimeDigitized": "388",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 236,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043807229",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:38:07",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 36517
+      },
+      "exif": {
+        "ExposureTime": 0.003547,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 46,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:38:07",
+        "CreateDate": "2023:04:06 13:38:07",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 8.14,
+        "ApertureValue": 2,
+        "BrightnessValue": 6.26,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "229",
+        "SubSecTimeOriginal": "229",
+        "SubSecTimeDigitized": "229",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 205,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043738992",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:37:38",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 33872
+      },
+      "exif": {
+        "ExposureTime": 0.00191,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 47,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:37:38",
+        "CreateDate": "2023:04:06 13:37:38",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 9.03,
+        "ApertureValue": 2,
+        "BrightnessValue": 7.12,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "992",
+        "SubSecTimeOriginal": "992",
+        "SubSecTimeDigitized": "992",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 219,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043519470",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:35:19",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 30407
+      },
+      "exif": {
+        "ExposureTime": 0.008328,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 74,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:35:19",
+        "CreateDate": "2023:04:06 13:35:19",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 2,
+        "BrightnessValue": 4.34,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "470",
+        "SubSecTimeOriginal": "470",
+        "SubSecTimeDigitized": "470",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.09
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.55
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.1,
+        "GPSTimeStamp": [
+          4,
+          34,
+          25
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 358,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_041950157",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:19:50",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 502,
+        "ImageHeight": 377,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 17717
+      },
+      "exif": {
+        "ExposureTime": 0.066663,
+        "FNumber": 2.2,
+        "ExposureProgram": 2,
+        "ISO": 4928,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:19:50",
+        "CreateDate": "2023:04:06 13:19:50",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 3.91,
+        "ApertureValue": 2.28,
+        "BrightnessValue": -4.44,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.28,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.35,
+        "SubSecTime": "157",
+        "SubSecTimeOriginal": "157",
+        "SubSecTimeDigitized": "157",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 16,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 2.35mm f/2.2"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.55
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          24.51
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.2,
+        "GPSTimeStamp": [
+          4,
+          16,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 74,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_103317471",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 19:33:17",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 31717
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 223,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 19:33:17",
+        "CreateDate": "2023:04:07 19:33:17",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 2.07,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.974,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "471",
+        "SubSecTimeOriginal": "471",
+        "SubSecTimeDigitized": "471",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          41,
+          27.81
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          46,
+          1.04
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 43,
+        "GPSTimeStamp": [
+          10,
+          17,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 46,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_111529281",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 20:15:29",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 29158
+      },
+      "exif": {
+        "ExposureTime": 0.010006,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 232,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 20:15:29",
+        "CreateDate": "2023:04:07 20:15:29",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 2.01,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.347,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "281",
+        "SubSecTimeOriginal": "281",
+        "SubSecTimeDigitized": "281",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          41,
+          27.96
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          45,
+          58.77
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 43,
+        "GPSTimeStamp": [
+          11,
+          15,
+          26
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 32,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_052605583",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 14:26:05",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 38053
+      },
+      "exif": {
+        "ExposureTime": 0.00047,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 63,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 14:26:05",
+        "CreateDate": "2023:04:07 14:26:05",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 11.05,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 8.3,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 2.009,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "583",
+        "SubSecTimeOriginal": "583",
+        "SubSecTimeDigitized": "583",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          39.86
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          31.55
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 78.54,
+        "GPSTimeStamp": [
+          5,
+          25,
+          13
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 320,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_115635089",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 20:56:35",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 32539
+      },
+      "exif": {
+        "ExposureTime": 0.040022,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 149,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 20:56:35",
+        "CreateDate": "2023:04:06 20:56:35",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 4.64,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 0.65,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.974,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "089",
+        "SubSecTimeOriginal": "089",
+        "SubSecTimeDigitized": "089",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          9.61
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          45.91
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 90.5,
+        "GPSTimeStamp": [
+          11,
+          56,
+          29
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 254,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_055703428",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 14:57:03",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 39947
+      },
+      "exif": {
+        "ExposureTime": 0.00449,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 71,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 14:57:03",
+        "CreateDate": "2023:04:07 14:57:03",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.8,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 4.87,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.857,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "428",
+        "SubSecTimeOriginal": "428",
+        "SubSecTimeDigitized": "428",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          50.79
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          20.63
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 39.4,
+        "GPSTimeStamp": [
+          5,
+          56,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 183,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043918280",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:39:18",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 54171
+      },
+      "exif": {
+        "ExposureTime": 0.002523,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 49,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:39:18",
+        "CreateDate": "2023:04:06 13:39:18",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 8.63,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 6.24,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.787,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "280",
+        "SubSecTimeOriginal": "280",
+        "SubSecTimeDigitized": "280",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 153,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_041955954.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:19:55",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 502,
+        "ImageHeight": 377,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 23227
+      },
+      "exif": {
+        "ExposureTime": 0.058326,
+        "FNumber": 2.2,
+        "ExposureProgram": 2,
+        "ISO": 3552,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:19:55",
+        "CreateDate": "2023:04:06 13:19:55",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 4.1,
+        "ApertureValue": 2.28,
+        "BrightnessValue": -3.78,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.28,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.35,
+        "SubSecTime": "954",
+        "SubSecTimeOriginal": "954",
+        "SubSecTimeDigitized": "954",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 16,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 2.35mm f/2.2"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.55
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          24.51
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.2,
+        "GPSTimeStamp": [
+          4,
+          16,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 87,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_041948229.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:19:48",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 502,
+        "ImageHeight": 377,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 18092
+      },
+      "exif": {
+        "ExposureTime": 0.066663,
+        "FNumber": 2.2,
+        "ExposureProgram": 2,
+        "ISO": 3340,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:19:48",
+        "CreateDate": "2023:04:06 13:19:48",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 3.91,
+        "ApertureValue": 2.28,
+        "BrightnessValue": -3.88,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.28,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.35,
+        "SubSecTime": "229",
+        "SubSecTimeOriginal": "229",
+        "SubSecTimeDigitized": "229",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 16,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 2.35mm f/2.2"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.55
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          24.51
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.2,
+        "GPSTimeStamp": [
+          4,
+          16,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 63,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_033951841",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 12:39:51",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 40315
+      },
+      "exif": {
+        "ExposureTime": 0.008338,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 421,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 12:39:51",
+        "CreateDate": "2023:04:06 12:39:51",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 1.41,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "841",
+        "SubSecTimeOriginal": "841",
+        "SubSecTimeDigitized": "841",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.88
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.84
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 24.18,
+        "GPSTimeStamp": [
+          3,
+          33,
+          32
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 6,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230405_220534722.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 07:05:34",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 26664
+      },
+      "exif": {
+        "ExposureTime": 0.008328,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 278,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 07:05:34",
+        "CreateDate": "2023:04:06 07:05:34",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 2,
+        "BrightnessValue": 2.43,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "722",
+        "SubSecTimeOriginal": "722",
+        "SubSecTimeDigitized": "722",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          39.09
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          46,
+          56.68
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 47,
+        "GPSTimeStamp": [
+          22,
+          4,
+          23
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 7,
+        "GPSDateStamp": "2023:04:05"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_040646620.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:06:46",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 14537
+      },
+      "exif": {
+        "ExposureTime": 0.066661,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 2132,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:06:46",
+        "CreateDate": "2023:04:06 13:06:46",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 3.91,
+        "ApertureValue": 1.58,
+        "BrightnessValue": -3.93,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "620",
+        "SubSecTimeOriginal": "620",
+        "SubSecTimeDigitized": "620",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.66
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.7
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 55.45,
+        "GPSTimeStamp": [
+          4,
+          6,
+          23
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 244,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_070657069",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 16:06:57",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 57580
+      },
+      "exif": {
+        "ExposureTime": 0.001924,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 49,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 16:06:57",
+        "CreateDate": "2023:04:07 16:06:57",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 9.02,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 6.63,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 2.404,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "069",
+        "SubSecTimeOriginal": "069",
+        "SubSecTimeDigitized": "069",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 2,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          47.01
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          46,
+          22.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 55.1,
+        "GPSTimeStamp": [
+          7,
+          6,
+          50
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 136,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043834825",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:38:34",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 55210
+      },
+      "exif": {
+        "ExposureTime": 0.004575,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 58,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:38:34",
+        "CreateDate": "2023:04:06 13:38:34",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.77,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 5.14,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "825",
+        "SubSecTimeOriginal": "825",
+        "SubSecTimeDigitized": "825",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 110,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043624323",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:36:24",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 504,
+        "ImageHeight": 378,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 54297
+      },
+      "exif": {
+        "ExposureTime": 0.004276,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 79,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:36:24",
+        "CreateDate": "2023:04:06 13:36:24",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.87,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 4.79,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.347,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "323",
+        "SubSecTimeOriginal": "323",
+        "SubSecTimeDigitized": "323",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 0,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230404_212954540.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:05 06:29:54",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1145,
+        "ThumbnailLength": 19205
+      },
+      "exif": {
+        "ExposureTime": 0.033326,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 114,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:05 06:29:54",
+        "CreateDate": "2023:04:05 06:29:54",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 4.91,
+        "ApertureValue": 2,
+        "BrightnessValue": 1.72,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "540",
+        "SubSecTimeOriginal": "540",
+        "SubSecTimeDigitized": "540",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 240
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043832453",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:38:32",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 252,
+        "ImageHeight": 189,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 16131
+      },
+      "exif": {
+        "ExposureTime": 0.006072,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 76,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:38:32",
+        "CreateDate": "2023:04:06 13:38:32",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 7.36,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 4.34,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "453",
+        "SubSecTimeOriginal": "453",
+        "SubSecTimeDigitized": "453",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 34,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230407_052603031.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:07 14:26:03",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 35746
+      },
+      "exif": {
+        "ExposureTime": 0.000428,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 63,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:07 14:26:03",
+        "CreateDate": "2023:04:07 14:26:03",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 11.19,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 8.44,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 2.009,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "031",
+        "SubSecTimeOriginal": "031",
+        "SubSecTimeDigitized": "031",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          39.86
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          31.55
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 78.54,
+        "GPSTimeStamp": [
+          5,
+          25,
+          13
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 336,
+        "GPSDateStamp": "2023:04:07"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_043645496",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:36:45",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 252,
+        "ImageHeight": 189,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 15919
+      },
+      "exif": {
+        "ExposureTime": 0.002566,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 52,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:36:45",
+        "CreateDate": "2023:04:06 13:36:45",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 8.61,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 6.13,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 0.974,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "496",
+        "SubSecTimeOriginal": "496",
+        "SubSecTimeDigitized": "496",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 1,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          55.54
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          23.74
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.3,
+        "GPSTimeStamp": [
+          4,
+          35,
+          38
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 128,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_041953300.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 13:19:53",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 502,
+        "ImageHeight": 377,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 23988
+      },
+      "exif": {
+        "ExposureTime": 0.066663,
+        "FNumber": 2.2,
+        "ExposureProgram": 2,
+        "ISO": 2491,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 13:19:53",
+        "CreateDate": "2023:04:06 13:19:53",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 3.91,
+        "ApertureValue": 2.28,
+        "BrightnessValue": -3.46,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2.28,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.35,
+        "SubSecTime": "300",
+        "SubSecTimeOriginal": "300",
+        "SubSecTimeDigitized": "300",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 4032,
+        "ExifImageHeight": 3024,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 16,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 2.35mm f/2.2"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.55
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          24.51
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 46.2,
+        "GPSTimeStamp": [
+          4,
+          16,
+          20
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 77,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_033412890.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 12:34:12",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 40271
+      },
+      "exif": {
+        "ExposureTime": 0.008338,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 188,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 12:34:12",
+        "CreateDate": "2023:04:06 12:34:12",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 2.58,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.726,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "890",
+        "SubSecTimeOriginal": "890",
+        "SubSecTimeDigitized": "890",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.88
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.84
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 24.18,
+        "GPSTimeStamp": [
+          3,
+          33,
+          32
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 13,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230405_204057478.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3280,
+        "ImageHeight": 2464,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 05:40:57",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 977
+      },
+      "thumbnail": {
+        "ImageWidth": 410,
+        "ImageHeight": 308,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1332,
+        "ThumbnailLength": 25141
+      },
+      "exif": {
+        "ExposureTime": 0.008328,
+        "FNumber": 2,
+        "ExposureProgram": 2,
+        "ISO": 106,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 05:40:57",
+        "CreateDate": "2023:04:06 05:40:57",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 2,
+        "BrightnessValue": 3.82,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 2,
+        "SubjectDistance": 4294967295,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 2.5,
+        "SubSecTime": "478",
+        "SubSecTimeOriginal": "478",
+        "SubSecTimeDigitized": "478",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3280,
+        "ExifImageHeight": 2464,
+        "InteropOffset": 947,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 24,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 3,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a front camera 2.5mm f/2.0"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          42,
+          5.64
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          34,
+          49.19
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 121.8,
+        "GPSTimeStamp": [
+          20,
+          40,
+          18
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 153,
+        "GPSDateStamp": "2023:04:05"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_033949959.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 12:39:49",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 42854
+      },
+      "exif": {
+        "ExposureTime": 0.008338,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 403,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 12:39:49",
+        "CreateDate": "2023:04:06 12:39:49",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 1.48,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "959",
+        "SubSecTimeOriginal": "959",
+        "SubSecTimeDigitized": "959",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.88
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.84
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 24.18,
+        "GPSTimeStamp": [
+          3,
+          33,
+          32
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 5,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_033947799.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 12:39:47",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 43433
+      },
+      "exif": {
+        "ExposureTime": 0.008338,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 311,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 12:39:47",
+        "CreateDate": "2023:04:06 12:39:47",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 1.85,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "799",
+        "SubSecTimeOriginal": "799",
+        "SubSecTimeDigitized": "799",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.88
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.84
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 24.18,
+        "GPSTimeStamp": [
+          3,
+          33,
+          32
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 347,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  },
+  {
+    "filename": "PXL_20230406_033945352.MP",
+    "exifData": {
+      "image": {
+        "ImageWidth": 3024,
+        "ImageHeight": 4032,
+        "Make": "Google",
+        "Model": "Pixel 6a",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "HDR+ 1.0.514217843zd",
+        "ModifyDate": "2023:04:06 12:39:45",
+        "YCbCrPositioning": 1,
+        "ExifOffset": 243,
+        "GPSInfo": 978
+      },
+      "thumbnail": {
+        "ImageWidth": 378,
+        "ImageHeight": 504,
+        "Compression": 6,
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "ThumbnailOffset": 1333,
+        "ThumbnailLength": 44893
+      },
+      "exif": {
+        "ExposureTime": 0.008338,
+        "FNumber": 1.73,
+        "ExposureProgram": 2,
+        "ISO": 331,
+        "ExifVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            50,
+            51,
+            50
+          ]
+        },
+        "DateTimeOriginal": "2023:04:06 12:39:45",
+        "CreateDate": "2023:04:06 12:39:45",
+        "OffsetTime": "+09:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ComponentsConfiguration": {
+          "type": "Buffer",
+          "data": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "ShutterSpeedValue": 6.91,
+        "ApertureValue": 1.58,
+        "BrightnessValue": 1.76,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 1.58,
+        "SubjectDistance": 1.214,
+        "MeteringMode": 2,
+        "Flash": 16,
+        "FocalLength": 4.38,
+        "SubSecTime": "352",
+        "SubSecTimeOriginal": "352",
+        "SubSecTimeDigitized": "352",
+        "FlashpixVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        },
+        "ColorSpace": 1,
+        "ExifImageWidth": 3024,
+        "ExifImageHeight": 4032,
+        "InteropOffset": 948,
+        "SensingMethod": 2,
+        "SceneType": {
+          "type": "Buffer",
+          "data": [
+            1
+          ]
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 0,
+        "FocalLengthIn35mmFormat": 27,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "LensMake": "Google",
+        "LensModel": "Pixel 6a back camera 4.38mm f/1.73"
+      },
+      "gps": {
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+          35,
+          38,
+          57.88
+        ],
+        "GPSLongitudeRef": "E",
+        "GPSLongitude": [
+          139,
+          47,
+          22.84
+        ],
+        "GPSAltitudeRef": 0,
+        "GPSAltitude": 24.18,
+        "GPSTimeStamp": [
+          3,
+          33,
+          32
+        ],
+        "GPSImgDirectionRef": "M",
+        "GPSImgDirection": 353,
+        "GPSDateStamp": "2023:04:06"
+      },
+      "interoperability": {
+        "InteropIndex": "R98",
+        "InteropVersion": {
+          "type": "Buffer",
+          "data": [
+            48,
+            49,
+            48,
+            48
+          ]
+        }
+      },
+      "makernote": {}
+    }
+  }
+]
