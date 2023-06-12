@@ -1,5 +1,7 @@
 # build output
+photos/
 dist/
+assets/photos/
 
 # generated types
 .astro/

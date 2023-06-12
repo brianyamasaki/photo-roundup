@@ -1,0 +1,14 @@
+---
+
+const { meta, photo} = Astro.props;
+
+const alt = meta ? `${meta.filename} - created on ${meta.dateCreated}` : 'unknown';
+const latLng = meta && typeof meta.gps === "object" && meta.gps.isValid ? `${meta.gps.Lat}, ${meta.gps.Lng}` : 'No Gps';
+---
+
+<div>
+  <img src={photo.src} width="1000" {alt} />
+  <p>Filename: {meta.filename}{meta.fileExt}</p>
+  <p>GPS Coords: {latLng}</p>
+  
+</div>

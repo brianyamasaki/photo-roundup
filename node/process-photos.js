@@ -1,5 +1,6 @@
 import sharp from "sharp";
 import fs from "fs-extra";
+import path from "node:path";
 import { glob } from "glob";
 import Exif from 'node-exif';
 
@@ -7,8 +8,7 @@ const ExifImage = Exif.ExifImage;
 
 const photosSrcDir = './photos';
 
-// const photosDestDir = './src/assets/photos/';
-const photosDestDir = './photos/resized';
+const photosDestDir = './src/assets/photos/';
 
 const matchString = '*.jpg';
 
@@ -58,6 +58,7 @@ const gpsToDecimal = (gps) => {
 const photoExifs = [];
 const resizeImage = async (pathFrom, pathTo) => {
   try {
+    const { name, ext } = path.parse(pathFrom);
     const imgSharp = sharp(pathFrom);
 
     const metadata = await imgSharp.metadata();
@@ -66,18 +67,22 @@ const resizeImage = async (pathFrom, pathTo) => {
         width: kimgWidth,
         height: Math.trunc(kimgWidth * metadata.height / metadata.width)
       })
-      .toFile(pathTo, (err, info) => {
-        console.log(err, info);
-      })
+      .toFile(`${pathTo}/${name}${ext}`);
 
     new ExifImage({image: pathFrom}, (error, exifData) => {
       if (error) {
         console.error(error.message);
       } else {
+        // photoExifs.push({
+        //   filename: name,
+        //   exifData
+        // });
         photoExifs.push({
+          dateCreated: exifData.exif.DateTimeOriginal || exifData.exif.CreateDate,
           height: metadata.height,
           width: metadata.width,
-          path: pathFrom.replace('\\', '/'),
+          filename: name,
+          fileExt: ext,
           image: exifData.image,
           gps: gpsToDecimal(exifData.gps)
         })
@@ -99,7 +104,8 @@ paths.forEach(path => {
 
 // setTimeout necessary so everything finishes before program finishes.
 setTimeout(() => {
-  fs.writeJson('metas.json', photoExifs, {
+  const filePath = `${photosDestDir}metas.json`;
+  fs.writeJson(filePath, photoExifs, {
     spaces: 2
   })
     .then(() => {

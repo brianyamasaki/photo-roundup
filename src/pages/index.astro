@@ -1,10 +1,20 @@
 ---
-import { Image } from 'astro:assets';
+import PhotoBasic from '../components/photoBasic.astro';
+import photoMetas from '../assets/photos/metas.json';
 const photoGlobs = await Astro.glob('../assets/photos/*.jpg');
 
 const photos = photoGlobs.map(photo => {
 	return photo.default;
 });
+
+// photoSrc is something like the following string.
+// /@fs/C:/Users/limited/projects/astro/photos/src/assets/photos/PXL_20230404_212954540.MP.jpg?origWidth=1000&origHeight=751&origFormat=jpg
+const findMeta = (photoSrc: string) => {
+	const preQ = photoSrc.substring(0, photoSrc.indexOf('?'));
+	const filename = preQ.substring(preQ.lastIndexOf('/') + 1);
+	return photoMetas.find(meta => (`${meta.filename}${meta.fileExt}` === filename))
+};
+
 
 const imgWidth = 900;
 
@@ -20,7 +30,7 @@ const imgWidth = 900;
 		<div class="app">
 			<h2>number of photos: {photos.length}</h2>
 			<ul>
-				{photos.map((photo) => <li><img width="1000" src={photo.src}/></li>)}
+				{photos.map((photo) => <li><PhotoBasic {photo} meta={photoMetas && findMeta(photo.src)}/></li>)}
 			</ul>	
 		</div>
 	</body>

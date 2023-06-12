@@ -1,5 +1,9 @@
 # Create a photo website
 
+Copy this repository and run ```npm install``` in the installation folder.
+1. Copy all photos into the installation folder's ```/photos``` folder.
+2. In a terminal with the current directory set to the installation folder, run the command ```npm process-photos``` and it will resize the photos and record Exif information from the original photo and strip out all Exif information from the resized photo while writing it out to ```/src/assets/photos```.
+3. Run the development version of the Astro website with the command ```npm run dev```.
 
 
 ## Project Structure
